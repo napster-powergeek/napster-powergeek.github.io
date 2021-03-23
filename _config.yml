@@ -7,7 +7,7 @@ url: ""
 baseurl:
 
 # Title of the Site
-title: Udbhav Pangota
+title: Udbhav Pangotra
 # Description of the Site
 description: A data scientist's blog
 # URL of Image of the Site
@@ -23,8 +23,8 @@ heroimage: /assets/images/IMG_20200103_181631.jpg
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: udbhavpangotra@protonmail.com
-# facebook_username: thedevslot
-# twitter_username: thedevslot
+facebook_username: udbhav.pangotra
+twitter_username: UDBHAV_23
 instagram_username: udbhavpangotra
 linkedin_username: udbhav-pangotra
 github_username: napster-powergeek
@@ -45,9 +45,9 @@ author-name: Udbhav Pangotra
 # URL for the Image of the Author
 author-image: /assets/images/profile-pic-1.jpg
 # 60 Words About the Author
-# author-about:
+author-about: Hello there! This blog is managed and owned by Udbhav Pangotra. I am a data scientist currently working in _VOIS. I have a total experience of more than 2.5 years in data science and have worked on projects in classificaion, regression, NLG, NLP, A/B testing and many more! If you find something I did interesting do connect with me and we can have a chat! Cheers!
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-# author-url: https://github.com/thedevslot
+author-url: https://github.com/napster-powergeek
 
 # SASS
 sass:
