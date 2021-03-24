@@ -1,5 +1,6 @@
+---
 - name: LeetCode Codes
-  image: "/assets\images\project_images\leetcode.png"
+  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
   link: https://github.com/udbhavpangotra/Leetcode
   description: Collection of LeetCode questions to ace the coding interview!
 - name: Significance Calculator
