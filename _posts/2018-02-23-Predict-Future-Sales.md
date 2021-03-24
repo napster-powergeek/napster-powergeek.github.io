@@ -11,9 +11,6 @@ tags:
 - matplotlib
 ---
 
-
-<img src="https://img.freepik.com/free-vector/financial-forecast-illustration-flat-tiny-economical-persons-concept_126608-1324.jpg?size=626&ext=jpg&ga=GA1.2.1775781678.1609891200"></img>
-
 <h1>💰Predict Future Sales Competiton💰: time series prediction with ARIMA</h1>
 
 ## 1. Competition Outline
