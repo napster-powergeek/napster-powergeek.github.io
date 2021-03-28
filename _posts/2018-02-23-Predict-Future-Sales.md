@@ -1,7 +1,7 @@
 ---
 title: Predict Future Sales
 layout: post
-post-image: /assets/images/predict_future_sales/sales.png
+post-image: /assets/images/predict_future_sales/sales.jpg
 description: In this blog we work with time-series dataset consisting of daily sales data, kindly provided by one of the largest Russian software firms - 1C Company. 
 
 tags: 
