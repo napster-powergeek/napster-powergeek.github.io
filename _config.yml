@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: Udbhav Pangotra
 # Description of the Site
-description: A data scientist's blog
+description: A Product Management and Data Science blog
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -45,7 +45,7 @@ author-name: Udbhav Pangotra
 # URL for the Image of the Author
 author-image: /assets/images/profile-pic-1.jpg
 # 60 Words About the Author
-author-about: Hello there! This blog is managed and owned by Udbhav Pangotra. I am a data scientist currently working in _VOIS. I have a total experience of more than 2.5 years in data science and have worked on projects in classificaion, regression, NLG, NLP, A/B testing and many more! If you find something I did interesting do connect with me and we can have a chat! Cheers!
+author-about: Hello there! This blog is managed and owned by Udbhav Pangotra. I am a senior data scientist currently working in _VOIS. I have a total experience of more than 4 years in data science and have worked on projects in classification, regression, NLG, NLP, A/B testing and many more! If you find something I did interesting do connect with me and we can have a chat! Cheers!
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/napster-powergeek
 
