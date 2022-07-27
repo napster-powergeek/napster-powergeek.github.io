@@ -1,7 +1,7 @@
 ---
 title: Google Cloud Storage
 layout: post
-post-image: /assets/images/fifa18/2.jpg
+post-image: /assets/images/fifa18/gcs.png
 description: A Deep Dive into Google Cloud Storage
 
 tags: 

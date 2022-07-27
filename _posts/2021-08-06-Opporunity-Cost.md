@@ -1,7 +1,7 @@
 ---
 title: Opportunity Cost
 layout: post
-post-image: /assets/images/fifa18/3.png
+post-image: /assets/images/fifa18/opp_cost.jpg
 description: When you make a choice do you take into account the cost it incurs?
 
 tags: 

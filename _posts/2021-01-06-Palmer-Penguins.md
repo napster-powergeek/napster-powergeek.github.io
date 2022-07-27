@@ -1,7 +1,7 @@
 ---
 title: Transfer Learning
 layout: post
-post-image: /assets/images/fifa18/1.jpg
+post-image: /assets/images/fifa18/transfer.jpg
 description: Transfer of learning occurs when people apply information, strategies, and skills they have learned to a new situation or context.
 
 tags: 
@@ -13,6 +13,5 @@ tags:
 
 
 
+Please continue reading at [the Medium Blog!](https://medium.com/@sam_12/transfer-learning-8fe57d57d304)
 
-
-Please continue reading at [the Medium Blog!](https://medium.com/geekculture/streamlit-and-palmer-penguins-92a09004ed45)

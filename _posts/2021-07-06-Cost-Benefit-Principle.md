@@ -1,7 +1,7 @@
 ---
 title: Cost Benefit Principle
 layout: post
-post-image: /assets/images/fifa18/4.png
+post-image: /assets/images/fifa18/cb.jpg
 description: Useful model of how people should make choices
 
 tags: 

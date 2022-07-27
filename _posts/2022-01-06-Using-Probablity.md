@@ -1,7 +1,7 @@
 ---
 title: May the odds be in your favor
 layout: post
-post-image: /assets/images/fifa18/1.jpg
+post-image: /assets/images/fifa18/probability-tree.png
 description: Using math and common sense to bet you way to better odds
 
 
