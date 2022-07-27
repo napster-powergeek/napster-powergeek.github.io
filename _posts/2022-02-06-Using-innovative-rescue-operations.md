@@ -1,7 +1,7 @@
 ---
 title: Using innovative digital solutions to improve search and rescue operations by Cătălin Buliga
 layout: post
-
+post-image: /assets/images/fifa18/3.png
 description: 
 
 tags: 

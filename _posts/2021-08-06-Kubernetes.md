@@ -1,7 +1,7 @@
 ---
 title: Kubernetes
 layout: post
-post-image: /assets/images/fifa18/Fifa-world-cup-2018.jpg
+post-image: /assets/images/fifa18/5.png
 description: What is it? Why do we need it?
 
 tags: 

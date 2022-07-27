@@ -1,7 +1,7 @@
 ---
 title: Transfer Learning
 layout: post
-post-image: /assets/images/fifa18/Fifa-world-cup-2018.jpg
+post-image: /assets/images/fifa18/1.jpg
 description: Transfer of learning occurs when people apply information, strategies, and skills they have learned to a new situation or context.
 
 tags: 
@@ -10,7 +10,7 @@ tags:
 - plotly
 - matplotlib
 ---
-<!-- ![png](/assets/images/fifa18/Fifa-world-cup-2018.jpg) -->
+
 
 
 

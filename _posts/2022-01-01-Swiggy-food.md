@@ -1,7 +1,7 @@
 ---
 title: Swiggy : Food Platform
 layout: post
-post-image:
+post-image:/assets/images/fifa18/5.jpg
 description: 
 
 tags: 
