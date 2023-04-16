@@ -81,6 +81,11 @@ defaults:
     values:
       layout: page
 
+pages:
+  - path: /books/
+    title: Books
+    layout: page
+
 # Exclude
 exclude:
   - .sass-cache/
