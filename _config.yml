@@ -85,6 +85,9 @@ pages:
   - path: /books/
     title: Books
     layout: page
+  - path: /resume/
+    title : Resume
+    layout: page
 
 # Exclude
 exclude:
